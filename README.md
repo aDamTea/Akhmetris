@@ -1,5 +1,5 @@
 # Tetris clone
-Tried to make clone of Tetris game (temorary without wall kicks). Works on [Raylib](https://github.com/raysan5/raylib) library. May contain couple of inefficient functions :)
+Tried to make clone of Tetris game (temporary without wall kicks). Works on [Raylib](https://github.com/raysan5/raylib) library. May contain couple of inefficient functions :)
 
 ---
 
