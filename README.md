@@ -1,6 +1,8 @@
 # Tetris clone
 Tried to make clone of Tetris game (temorary without wall kicks). Works on [Raylib](https://github.com/raysan5/raylib) library. May contain couple of inefficient functions :)
+
 ---
+
 <img align="left" src="https://github.com/aDamTea/Akhmetris/blob/master/image.png" width="288px">
 
 To Do List:
